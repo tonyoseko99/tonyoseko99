@@ -7,7 +7,7 @@ Software Developer
 * 🌍  I'm based in Nairobi
 * 🖥️  See my portfolio at [tony.portfolio.com](http://tonyoseko99.github.io/portfolio/)
 * ✉️  You can contact me at [tonnyseko@gmail.com](mailto:tonnyseko@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning Ruby on Rails
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/TonyOseko" target="_blank" rel="noreferrer"><img
