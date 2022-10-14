@@ -4,8 +4,6 @@ Hi, My name is Tony
 Software Developer
 ------------------
 
-* 🌍  I'm based in Nairobi
-* ✉️  You can contact me at [tonnyseko@gmail.com](mailto:tonnyseko@gmail.com)
 * 🧠  I'm learning Ruby on Rails
 * 🤝  I'm open to collaborating on interesting projects
 
