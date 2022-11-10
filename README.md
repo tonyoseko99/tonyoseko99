@@ -4,7 +4,7 @@ Hi, My name is Tony
 Software Developer
 ------------------
 
-* 🧠  I'm learning Ruby on Rails
+* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/TonyOseko" target="_blank" rel="noreferrer"><img
