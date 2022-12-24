@@ -1,7 +1,7 @@
 Hi, My name is Tony
 =====================
 
-Software Developer
+Software Developer & Technical Writer
 ------------------
 
 * 🧠  I'm learning Node.js
