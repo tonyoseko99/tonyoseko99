@@ -4,7 +4,7 @@ Hi, My name is Tony
 Software Developer & Technical Writer
 ------------------
 
-* 🧠  I'm learning Node.js
+* 🧠  I'm learning to play guitar
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/TonyOseko" target="_blank" rel="noreferrer"><img
