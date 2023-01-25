@@ -7,10 +7,7 @@ Software Developer & Technical Writer
 * 🧠  I'm learning to play guitar
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.twitter.com/TonyOseko" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/TonyOseko?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
+* Also, seeking new opportunities
 
 
 ### Socials
