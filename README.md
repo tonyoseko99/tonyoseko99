@@ -1,11 +1,11 @@
-Hi, My name is Tony
+Tony
 =====================
 
 Software Developer & Technical Writer
 ------------------
 
 * 🧠  Playing around with the MERN stack
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  Open to collaborating on interesting projects
 
 
 ### Socials
