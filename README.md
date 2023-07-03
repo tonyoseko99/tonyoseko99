@@ -18,7 +18,7 @@ I'm Tony, a software developer and technical writer with experience in developin
 
 - **Languages:** JavaScript, Python, Ruby
 - **Backend:** Node.js, Express.js, Django, Ruby on Rails
-- **Frontend:** React, Redux, HTML, CSS
+- **Frontend:** React, Redux, HTML, CSS, Tailwind, AntD, Bootstrap, Material UI
 - **Databases:** MongoDB, PostgreSQL, SQL
 - **Tools:** Git, Docker, Jenkins
 
