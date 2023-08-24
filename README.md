@@ -12,15 +12,15 @@
 
 ### 👨🏻‍💻 About Me
 
-I'm Tony, a software developer and technical writer with experience in developing full-stack applications using a range of technologies. I specialize in the MERN stack and have worked on projects involving Django, PostgreSQL, SQL, Docker, and Jenkins.
+I'm Tony, a software developer and technical writer with experience in developing full-stack applications using a range of technologies. I specialize in the MERN stack but have also worked on projects involving Django, PostgreSQL, and Ruby on Rails.
 
 ### 🚀 Skills
 
 - **Languages:** JavaScript, Python, Ruby
-- **Backend:** Node.js, Express.js, Django, Ruby on Rails
-- **Frontend:** React, Redux, HTML, CSS, Tailwind, AntD, Bootstrap, Material UI
-- **Databases:** MongoDB, PostgreSQL, SQL
-- **Tools:** Git, Docker, Jenkins
+- **Backend:** Node.js, Django, Ruby on Rails
+- **Frontend:** React, HTML, CSS, Tailwind, AntD, Bootstrap, Material UI
+- **Databases:** MongoDB, PostgreSQL, SQLite
+- **Tools:** Git, Docker, Jenkins, Github Actions
 
 ### 📝 Blog
 
