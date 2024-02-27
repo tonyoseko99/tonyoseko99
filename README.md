@@ -16,8 +16,6 @@ I'm Tony, a software developer and technical writer with experience in developin
 
 [![tonyoseko99's GitHub | Stats](https://stats.quine.sh/tonyoseko99/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tonyoseko99)
 
-[![tonyoseko99's GitHub | Languages Over Time](https://stats.quine.sh/tonyoseko99/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tonyoseko99)
-
 ### 🚀 Skills
 
 - **Languages:** JavaScript, Python, Ruby, Java
@@ -25,6 +23,8 @@ I'm Tony, a software developer and technical writer with experience in developin
 - **Frontend:** React js
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Tools:** Git, Docker, Jenkins, Github Actions
+
+[![tonyoseko99's GitHub | Languages Over Time](https://stats.quine.sh/tonyoseko99/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tonyoseko99)
 
 ### 📝 Blog
 
