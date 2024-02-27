@@ -14,6 +14,8 @@
 
 I'm Tony, a software developer and technical writer with experience in developing full-stack applications using a range of technologies. I specialize in the MERN stack but have also worked on projects involving Django, PostgreSQL, and Ruby on Rails.
 
+[![tonyoseko99's GitHub | Stats](https://stats.quine.sh/tonyoseko99/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tonyoseko99)
+
 ### 🚀 Skills
 
 - **Languages:** JavaScript, Python, Ruby, Java
