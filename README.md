@@ -12,7 +12,7 @@
 
 ### 👨🏻‍💻 About Me
 
-I'm Tony, a software developer and technical writer with experience in developing full-stack applications using a range of technologies. I specialize in the MERN stack but have also worked on projects involving Django, PostgreSQL, and Ruby on Rails.
+I'm Tony, a software developer and technical writer with experience in developing full-stack applications using a range of technologies. I build web apps using J2EE, and Spring Boot. I'm also proficient in React js for frontend development.
 
 [![tonyoseko99's GitHub | Stats](https://stats.quine.sh/tonyoseko99/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tonyoseko99)
 
@@ -22,7 +22,7 @@ I'm Tony, a software developer and technical writer with experience in developin
 - **Backend:** Node.js, Django, Ruby on Rails, Springboot
 - **Frontend:** React js
 - **Databases:** MongoDB, PostgreSQL, MySQL
-- **Tools:** Git, Docker, Jenkins, Github Actions
+- **DevOps:** Version Control, Containerization, Pipeplines, Automation, Monitoring
 
 [![tonyoseko99's GitHub | Languages Over Time](https://stats.quine.sh/tonyoseko99/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tonyoseko99)
 
