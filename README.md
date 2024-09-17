@@ -12,15 +12,15 @@
 
 ### 👨🏻‍💻 About Me
 
-I'm Tony, a software developer and technical writer with experience in developing full-stack applications using a range of technologies. I build web apps using J2EE, and Spring Boot. I'm also proficient in React js for frontend development.
+I'm Tony, a software developer and technical writer with experience in developing applications using a range of technologies. I build web apps using J2EE, and Spring Boot. I'm also proficient in React js and Ext Js for frontend development.
 
 [![tonyoseko99's GitHub | Stats](https://stats.quine.sh/tonyoseko99/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tonyoseko99)
 
 ### 🚀 Skills
 
 - **Languages:** JavaScript, Python, Ruby, Java
-- **Backend:** Node.js, Django, Ruby on Rails, Springboot
-- **Frontend:** React js
+- **Backend:** Ruby on Rails, Springboot
+- **Frontend:** React js, Ext Js
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **DevOps:** Version Control, Containerization, Pipeplines, Automation, Monitoring
 
