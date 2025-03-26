@@ -18,10 +18,10 @@ I'm Tony, a software developer and technical writer with experience in developin
 
 ### 🚀 Skills
 
-- **Languages:** JavaScript, Python, Ruby, Java
-- **Backend:** Ruby on Rails, Springboot
-- **Frontend:** React js, Ext Js
-- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Languages:** JavaScript, Java
+- **Backend:** Springboot
+- **Frontend:** React js, Ext Js, React Native
+- **Databases:** Oracle, PostgreSQL. MySQL
 - **DevOps:** Version Control, Containerization, Pipeplines, Automation, Monitoring
 
 [![tonyoseko99's GitHub | Languages Over Time](https://stats.quine.sh/tonyoseko99/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=tonyoseko99)
